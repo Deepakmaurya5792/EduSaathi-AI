@@ -1,0 +1,17 @@
+{
+  "short_name": "EduSaathi",
+  "name": "EduSaathi AI — Quality Education for Every Student",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Personalized AI-powered multilingual tutor aligned with UN SDG 4."
+}
